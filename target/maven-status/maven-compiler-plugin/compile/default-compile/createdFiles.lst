@@ -1,0 +1,9 @@
+com\gorest\utils\TestUtils.class
+com\gorest\models\PostPojo.class
+com\gorest\utils\PropertyReader.class
+com\gorest\gorestappinfo\UserSteps.class
+com\gorest\App.class
+com\gorest\gorestappinfo\PostStep.class
+com\gorest\constant\EndPoints.class
+com\gorest\constant\Path.class
+com\gorest\models\UserPojo.class

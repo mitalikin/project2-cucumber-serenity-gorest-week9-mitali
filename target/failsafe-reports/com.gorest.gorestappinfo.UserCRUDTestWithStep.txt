@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.gorest.gorestappinfo.UserCRUDTestWithStep
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.013 sec <<< FAILURE! - in com.gorest.gorestappinfo.UserCRUDTestWithStep
+test001(com.gorest.gorestappinfo.UserCRUDTestWithStep)  Time elapsed: 0.003 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.gorestappinfo.UserCRUDTestWithStep.test001(UserCRUDTestWithStep.java:32)
+
+test002(com.gorest.gorestappinfo.UserCRUDTestWithStep)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.gorestappinfo.UserCRUDTestWithStep.test002(UserCRUDTestWithStep.java:40)
+
+test003(com.gorest.gorestappinfo.UserCRUDTestWithStep)  Time elapsed: 0.002 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.gorestappinfo.UserCRUDTestWithStep.test003(UserCRUDTestWithStep.java:49)
+
+test004(com.gorest.gorestappinfo.UserCRUDTestWithStep)  Time elapsed: 0.002 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.gorestappinfo.UserCRUDTestWithStep.test004(UserCRUDTestWithStep.java:57)
+
